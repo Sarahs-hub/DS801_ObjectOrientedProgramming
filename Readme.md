@@ -12,4 +12,4 @@ Java code releated to DS801 course: introduction to obejct oriented programming
 - design and implement abstract data types.
 - use basic tree structures and algorithms for these
 
-Contains code from group project and small java exercises 
+Contains code from group project
