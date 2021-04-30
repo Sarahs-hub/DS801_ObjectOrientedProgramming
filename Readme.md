@@ -1,5 +1,6 @@
-# DS801_ObjectOrientedProgramming
-Java code releated to DS801 course: introduction to obejct oriented programming
+# DS801: introduction to obejct oriented programming
+
+1st semester course
 
 ### Expected learning outcomes: 
 
